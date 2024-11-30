@@ -1,3 +1,6 @@
+Note from Valo: This is a mirrored fork, I plan to translate the readme to English and rename the files to their original titles.
+______________
+
 # messageNote
 
 ### 一、长期积累的在线学习网站
